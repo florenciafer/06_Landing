@@ -46,7 +46,7 @@ nav{
     margin-top: 2rem;
 }
 .container-card-left{
-    width: 50%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     align-content: space-around;
@@ -56,13 +56,13 @@ nav{
 .title-card{
     color:var(--azul-oscuro-color);
     font-family: 'Raleway', sans-serif;
-    font-size: 27px;
+    font-size: 35px;
     line-height: 50px;
 }
 .text-card{
     color: var(--azul-sin-saturar);
     font-family: 'Raleway', sans-serif;
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 200;
     margin: 0.9em 0rem;
 }
