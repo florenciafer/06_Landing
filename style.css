@@ -60,11 +60,11 @@ nav{
     line-height: 50px;
 }
 .text-card{
-    color: var(--azul-sin-saturar);
+    color: var(--azul-oscuro-color);
     font-family: 'Raleway', sans-serif;
     font-size: 17px;
     font-weight: 200;
-    margin: 0.9em 0rem;
+    margin: 0.5em 0 0.5em 0em;
 }
 .container-card-right img{
     width:80%;
@@ -72,4 +72,12 @@ nav{
 }
 .curve-desktop{
    background-color:  hsl(240, 75%, 98%);
+}
+.container-card-bg{
+    width: 100%;
+    background-color: var(--azul-sin-saturar);
+}
+
+footer{
+    background-color: hsl(243, 98%, 16%);
 }
